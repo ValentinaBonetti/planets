@@ -1,11 +1,14 @@
 Mars:
 mars id red.
 
-Or maybe it is not.
-hello mars, hello mars
+hello mars, hello mars, 
 
-This is a battle! I'm going to win and keep my changes :D
+hello mars, hello mars
 
 New change here
 
- 
+yes we like to do battles
+
+Yes we do, but let's take a coffee break now...
+
+
