@@ -1,7 +1,8 @@
 Mars:
 mars id red.
 
-Or maybe it is not.
 hello mars, hello mars, 
 
-Again mars, Again mars
+hello mars, hello mars
+
+yes we like to do battles
